@@ -1,0 +1,6 @@
+1. Test Case Design (Manual) - This is the in First sheet of the attached Excel
+2. Bug Reporting: - This is in the second sheet of the excel sheet 
+3. BillStation.py is the automated script for the web application - This is currently in headless mode
+4. SECTION 2 — Scenario-Based Questions  - This is in the word document
+5. SECTION 3 — Technical / Conceptual Questions  - This is in the word document
+ 
